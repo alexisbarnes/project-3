@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<insecurity>
+		<trend year="1995">
+			<low>11.94</low>
+			<very>4.14</very>
+    </trend>
+
+		<trend year="1996">
+			<low>12.02</low>
+			<very>4.29</very>
+		</trend>
+
+		<trend year="1997">1997
+			<low>10.11</low>
+			<very>3.22</very>
+		</trend>
+
+		<trend year="1998">1998
+			<low>11.79</low>
+			<very>3.71</very>
+		</trend>
+
+		<trend year="1999">
+			<low>10.06</low>
+			<very>2.97</very>
+		</trend>
+
+		<trend year="2000">
+			<low>10.47</low>
+			<very>3.13</very>
+		</trend>
+
+		<trend year="2001">2001
+		<low>10.69</low>
+		<very>3.26</very>
+		</trend>
+
+		<trend year="2002">
+			<low>11.10</low>
+			<very>3.50</very>
+		</trend>
+
+		<trend year="2003">
+			<low>11.21</low>
+			<very>3.49</very>
+		</trend>
+
+		<trend year="2004">
+			<low>11.95</low>
+			<very>3.94</very>
+		</trend>
+
+		<trend year="2005">
+			<low>11.00</low>
+			<very>3.87</very>
+		</trend>
+
+		<trend year="2006">
+			<low>10.94</low>
+			<very>3.99</very>
+		</trend>
+
+		<trend year="2007">
+			<low>11.11</low>
+			<very>4.06</very>
+		</trend>
+
+		<trend year="2008">
+			<low>14.59</low>
+			<very>5.72</very>
+		</trend>
+
+		<trend year="2009">
+			<low>14.69</low>
+			<very>5.71</very>
+		</trend>
+
+		<trend year="2010">
+			<low>14.51</low>
+			<very>5.35</very>
+		</trend>
+
+		<trend year="2011">
+			<low>14.94</low>
+			<very>5.72</very>
+		</trend>
+
+		<trend year="2012">
+			<low>14.51</low>
+			<very>5.72</very>
+		</trend>
+
+		<trend year="2013">
+			<low>14.28</low>
+			<very>5.58</very>
+		</trend>
+
+		<trend year="2014">
+			<low>14.05</low>
+			<very>5.59</very>
+		</trend>
+</insecurity>

@@ -1,0 +1,136 @@
+<html>
+  <head>
+    <title>Food Insecurity Among Children</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel ="stylesheet" href="css/styles.css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link href="http://getbootstrap.com/favicon.ico" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.10.1/bootstrap-social.min.css">
+
+    <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css">
+
+
+
+  </head>
+<!---START OF HTML--->
+  <body>
+    <!---HEADER--->
+        <div class="header col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <div class="col-md-4 col-lg-4 menu">
+            <a href="#" class="menu-hover"><span class="hamburger"></span><p class="menu-txt">Sections</p></a>
+
+            <a href="#"><img src="img/search_icon.png" class="search"></a>
+          </div>
+
+          <div class="col-md-4 col-lg-4">
+            <a href="#"><img src="img/la_logo.png" class="la-logo"></a>
+          </div>
+
+
+        </div>
+
+    <div class="container main-content">
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <a class="#"><img src="img/facebook_icon.jpg" class="facebook"></a>
+          <a class="#"><img src="img/twitter_icon.png" class="twitter"></a>
+          <a class="#"><img src="img/email_icon.png" class="email"></a>
+          <h1><span class="grey-txt">Interactive</span> Food insecurity among children</h1>
+          <span class="by-line">By </span><a href="#">Alexis Barnes</a>
+          <p>Food insecurity is when a person has limited access to adquate food. Not only are individuals experiencing food insecurity, there are households who suffer from it as well. According to the data provided by the USDA, food insecurity is most prevalent in households with children.</p>
+
+
+          <div id="chart1" class="align-center"></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <p>The rates of low and very food security have been going up and down since 1995, but it increased about 4% in 2008. </p>
+
+          <div id="chart2" class="align-center"></div>
+          <span class="by-line">*Low Food Security includes very low food security</span>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <h1>How are children affected in California?</h1>
+          <p>Low-income families suffer more from lack of food security. Here are maps comparing the child poverty rate by county to the estimated number of food insecure children in each county and congressional district. The following table will show the rate of food insecure children and how many of those children are eligible for federal nutrition assistance by county. </p>
+        </div>
+      </div>
+
+          <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+              <div id="map3"></div>
+              <span class="by-line">*For some counties, poverty rates cannot be calculated individually. Those counties are grouped.</span>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+              <div id="map1"></div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+              <div id="map2"></div>
+            </div>
+        </div>
+
+        <table id="example" class="display" cellspacing="0" width="100%">
+          <thead>
+            <tr>
+              <th>County</th>
+              <th>Population < 18</th>
+              <th>Estimated # Food Insecure < 18</th>
+              <th>Rate of Food Insecurity < 18</th>
+              <th>% Eligible for Federal Nutrition Assistance</th>
+              <th>% Ineligible</th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <th>County</th>
+              <th>Population < 18</th>
+              <th>Estimated # Food Insecure < 18</th>
+              <th>Rate of Food Insecurity < 18</th>
+              <th>% Eligible for Federal Nutrition Assistance</th>
+              <th>% Ineligible for Federal Nutrition Assistance</th>
+            </tr>
+          </tfoot>
+        </table>
+
+        <p class="by-line copy">Copyright &copy; 2016</p>
+
+
+
+
+
+      </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
+   <script src="http://code.highcharts.com/maps/modules/map.js"></script>
+   <script src="http://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/mapdata/countries/us/us-ca-all.js"></script>
+    <script src="https://code.highcharts.com/mapdata/countries/us/custom/us-ca-congress-113.js"></script>
+    <script src="http://code.highcharts.com/modules/exporting.js"></script>
+    <script src="http://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
+
+
+
+
+
+    <script src="js/script.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/maps.js"></script>
+  </body>
+
+
+
+</html>

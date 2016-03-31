@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<all>
+	<household type="All households">
+		<thousands>17426</thousands>
+		<percent>14</percent>
+	</household>
+
+	<household type="With children less than 18">
+		<thousands>7489</thousands>
+		<percent>19.2</percent>
+	</household>
+
+	<household type="With children less than 6">
+		<thousands>3425</thousands>
+		<percent>19.9</percent>
+	</household>
+
+	<household type="Married-couple families">
+		<thousands>3150</thousands>
+		<percent>12.4</percent>
+	</household>
+
+	<household type="Female head, no spouse">
+		<thousands>3501</thousands>
+		<percent>35.3</percent>
+	</household>
+
+	<household type="Male head, no spouse">
+		<thousands>704</thousands>
+		<percent>21.7</percent>
+	</household>
+
+	<household type="Other household with child">
+		<thousands>135</thousands>
+		<percent>24.4</percent>
+	</household>
+
+	<household type="With no children less than 18">
+		<thousands>9936</thousands>
+		<percent>11.7</percent>
+	</household>
+
+	<household type="More than one adult">
+		<thousands>4890</thousands>
+		<percent>9.7</percent>
+	</household>
+
+	<household type="Women living alone">
+		<thousands>2913</thousands>
+		<percent>15.3</percent>
+	</household>
+
+	<household type="Men living alone">
+		<thousands>2133</thousands>
+		<percent>14</percent>
+	</household>
+
+	<household type="With elderly">
+		<thousands>3039</thousands>
+		<percent>8.9</percent>
+	</household>
+
+	<household type="Elderly living alone">
+		<thousands>1184</thousands>
+		<percent>9.3</percent>
+	</household>
+</all>

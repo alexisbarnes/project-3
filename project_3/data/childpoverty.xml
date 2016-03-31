@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<poverty>
+  <county>
+    <name>Statewide</name>
+    <rate>23.35</rate>
+  </county>
+
+  <county>
+    <name>Alameda</name>
+    <rate>16.21</rate>
+  </county>
+
+  <county>
+    <name>Butte</name>
+    <rate>26.20</rate>
+  </county>
+
+  <county>
+    <name>Contra Costa</name>
+    <rate>15.06</rate>
+  </county>
+
+  <county>
+    <name>El Dorado</name>
+    <rate>12.75</rate>
+  </county>
+
+  <county>
+    <name>Fresno</name>
+    <rate>39.99</rate>
+  </county>
+
+  <county>
+    <name>Humboldt</name>
+    <rate>23.19</rate>
+  </county>
+
+  <county>
+    <name>Imperial</name>
+    <rate>29.23</rate>
+  </county>
+
+  <county>
+    <name>Kern</name>
+    <rate>32.69</rate>
+  </county>
+
+  <county>
+    <name>Kings</name>
+    <rate>30.21</rate>
+  </county>
+
+  <county>
+    <name>Los Angeles</name>
+    <rate>26.76</rate>
+  </county>
+
+  <county>
+    <name>Madera</name>
+    <rate>34.90</rate>
+  </county>
+
+  <county>
+    <name>Lake/Mendocino</name>
+    <rate>33.06</rate>
+  </county>
+
+  <county>
+    <name>Marin</name>
+    <rate>9.02</rate>
+  </county>
+
+  <county>
+    <name>Merced</name>
+    <rate>37.83</rate>
+  </county>
+
+  <county>
+    <name>Colusa</name>
+    <rate>25.15</rate>
+  </county>
+
+  <county>
+    <name>Glenn</name>
+    <rate>25.15</rate>
+  </county>
+
+  <county>
+    <name>Tehama</name>
+    <rate>25.15</rate>
+  </county>
+
+  <county>
+    <name>Trinity</name>
+    <rate>25.15</rate>
+  </county>
+
+  <county>
+    <name>Montereys</name>
+    <rate>26.56</rate>
+  </county>
+
+  <county>
+    <name>San Benito</name>
+    <rate>26.56</rate>
+  </county>
+
+  <county>
+    <name>Napa</name>
+    <rate>12.48</rate>
+  </county>
+
+  <county>
+    <name>Orange</name>
+    <rate>18.21</rate>
+  </county>
+
+  <county>
+    <name>Placer</name>
+    <rate>10.69</rate>
+  </county>
+
+  <county>
+    <name>Riverside</name>
+    <rate>23.79</rate>
+  </county>
+
+  <county>
+    <name>Sacramento</name>
+    <rate>25.44</rate>
+  </county>
+
+  <county>
+    <name>San Bernardino</name>
+    <rate>26.99</rate>
+  </county>
+
+  <county>
+    <name>San Diego</name>
+    <rate>19.69</rate>
+  </county>
+
+  <county>
+    <name>San Francisco</name>
+    <rate>14.47</rate>
+  </county>
+
+  <county>
+    <name>San Joaquin</name>
+    <rate>25.39</rate>
+  </county>
+
+  <county>
+    <name>San Luis Obispo</name>
+    <rate>16.78</rate>
+  </county>
+
+  <county>
+    <name>Sutter/Yuba</name>
+    <rate>27.01</rate>
+  </county>
+
+  <county>
+    <name>San Mateo</name>
+    <rate>9.92</rate>
+  </county>
+
+  <county>
+    <name>Santa Barbara</name>
+    <rate>19.86</rate>
+  </county>
+
+  <county>
+    <name>Santa Clara</name>
+    <rate>12.72</rate>
+  </county>
+
+  <county>
+    <name>Santa Cruz</name>
+    <rate>14.20%</rate>
+  </county>
+
+  <county>
+    <name>Shasta</name>
+    <rate>23.16</rate>
+  </county>
+
+  <county>
+    <name>Solano</name>
+    <rate>19.17</rate>
+  </county>
+
+  <county>
+    <name>Sonoma</name>
+    <rate>14.23</rate>
+  </county>
+
+  <county>
+    <name>Stanislaus</name>
+    <rate>31.96</rate>
+  </county>
+
+  <county>
+    <name>Tulare</name>
+    <rate>38.77</rate>
+  </county>
+
+  <county>
+    <name>Ventura</name>
+    <rate>17.71</rate>
+  </county>
+
+  <county>
+    <name>Yolo</name>
+    <rate>18.87</rate>
+  </county>
+
+  <county>
+    <name>Alpine</name>
+    <rate>18.90</rate>
+  </county>
+
+  <county>
+    <name>Amador</name>
+    <rate>18.90</rate>
+  </county>
+
+  <county>
+    <name>Calaveras</name>
+    <rate>18.90</rate>
+  </county>
+
+  <county>
+    <name>Inyo</name>
+    <rate>18.90</rate>
+  </county>
+
+  <county>
+    <name>Mariposa</name>
+    <rate>18.90</rate>
+  </county>
+
+  <county>
+    <name>Mono</name>
+    <rate>18.90</rate>
+  </county>
+
+  <county>
+    <name>Tuolumne></name>
+    <rate>18.90</rate>
+  </county>
+
+  <county>
+    <name>Del Norte</name>
+    <rate>24.06</rate>
+  </county>
+
+  <county>
+    <name>Lassen</name>
+    <rate>24.06</rate>
+  </county>
+
+  <county>
+    <name>Modoc</name>
+    <rate>24.06</rate>
+  </county>
+
+  <county>
+    <name>Siskiyou</name>
+    <rate>24.06</rate>
+  </county>
+
+  <county>
+    <name>Plumas</name>
+    <rate>24.06</rate>
+  </county>
+
+  <county>
+    <name>Nevada</name>
+    <rate>24.06</rate>
+  </county>
+
+  <county>
+    <name>Sierra</name>
+    <rate>24.06</rate>
+  </county>
+
+</poverty>

@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<ca-districts>
+  <district number="1">
+    <total-rate>17.9</total-rate>
+    <child-rate>27.6</child-rate>
+    <individuals>39800</individuals>
+    <eligible>74</eligible>
+    <ineligible>26</ineligible>
+  </district>
+
+  <district number="2">
+    <total-rate>15.3</total-rate>
+    <child-rate>23.6</child-rate>
+    <individuals>34430</individuals>
+    <eligible>61</eligible>
+    <ineligible>39</ineligible>
+  </district>
+
+  <district number="3">
+    <total-rate>16.9</total-rate>
+    <child-rate>26.1</child-rate>
+    <individuals>45570</individuals>
+    <eligible>72</eligible>
+    <ineligible>28</ineligible>
+  </district>
+
+  <district number="4">
+    <total-rate>15.6</total-rate>
+    <child-rate>23.8</child-rate>
+    <individuals>35550</individuals>
+    <eligible>51</eligible>
+    <ineligible>49</ineligible>
+  </district>
+
+  <district number="5">
+    <total-rate>15</total-rate>
+    <child-rate>23.5</child-rate>
+    <individuals>35270</individuals>
+    <eligible>64</eligible>
+    <ineligible>36</ineligible>
+  </district>
+
+  <district number="6">
+    <total-rate>21.4</total-rate>
+    <child-rate>31</child-rate>
+    <individuals>56570</individuals>
+    <eligible>81</eligible>
+    <ineligible>19</ineligible>
+  </district>
+
+  <district number="7">
+    <total-rate>17.5</total-rate>
+    <child-rate>25.6</child-rate>
+    <individuals>44900</individuals>
+    <eligible>63</eligible>
+    <ineligible>37</ineligible>
+  </district>
+
+  <district number="8">
+    <total-rate>17</total-rate>
+    <child-rate>29.2</child-rate>
+    <individuals>56010</individuals>
+    <eligible>75</eligible>
+    <ineligible>25</ineligible>
+  </district>
+
+  <district number="9">
+    <total-rate>16.9</total-rate>
+    <child-rate>27.8</child-rate>
+    <individuals>56090</individuals>
+    <eligible>79</eligible>
+    <ineligible>21</ineligible>
+  </district>
+
+  <district number="10">
+    <total-rate>16.7</total-rate>
+    <child-rate>29.3</child-rate>
+    <individuals>59410</individuals>
+    <eligible>76</eligible>
+    <ineligible>24</ineligible>
+  </district>
+
+  <district number="11">
+    <total-rate>14.5</total-rate>
+    <child-rate>21.9</child-rate>
+    <individuals>36460</individuals>
+    <eligible>57</eligible>
+    <ineligible>43</ineligible>
+  </district>
+
+  <district number="12">
+    <total-rate>17.6</total-rate>
+    <child-rate>20.4</child-rate>
+    <individuals>19980</individuals>
+    <eligible>59</eligible>
+    <ineligible>42</ineligible>
+  </district>
+
+  <district number="13">
+    <total-rate>20.1</total-rate>
+    <child-rate>24.6</child-rate>
+    <individuals>34850</individuals>
+    <eligible>66</eligible>
+    <ineligible>34</ineligible>
+  </district>
+
+  <district number="14">
+    <total-rate>12.4</total-rate>
+    <child-rate>18.4</child-rate>
+    <individuals>26610</individuals>
+    <eligible>47</eligible>
+    <ineligible>53</ineligible>
+  </district>
+
+  <district number="15">
+    <total-rate>12.6</total-rate>
+    <child-rate>19.3</child-rate>
+    <individuals>34540</individuals>
+    <eligible>54</eligible>
+    <ineligible>47</ineligible>
+  </district>
+
+  <district number="16">
+    <total-rate>19.3</total-rate>
+    <child-rate>35.4</child-rate>
+    <individuals>79450</individuals>
+    <eligible>92</eligible>
+    <ineligible>8</ineligible>
+  </district>
+
+  <district number="17">
+    <total-rate>13.8</total-rate>
+    <child-rate>19.5</child-rate>
+    <individuals>31770</individuals>
+    <eligible>42</eligible>
+    <ineligible>58</ineligible>
+  </district>
+
+  <district number="18">
+    <total-rate>12</total-rate>
+    <child-rate>17.7</child-rate>
+    <individuals>29610</individuals>
+    <eligible>44</eligible>
+    <ineligible>56</ineligible>
+  </district>
+
+  <district number="19">
+    <total-rate>12.6</total-rate>
+    <child-rate>23</child-rate>
+    <individuals>42210</individuals>
+    <eligible>62</eligible>
+    <ineligible>38</ineligible>
+  </district>
+
+  <district number="20">
+    <total-rate>12.4</total-rate>
+    <child-rate>24.4</child-rate>
+    <individuals>44920</individuals>
+    <eligible>75</eligible>
+    <ineligible>25</ineligible>
+  </district>
+
+  <district number="21">
+    <total-rate>15.5</total-rate>
+    <child-rate>32</child-rate>
+    <individuals>72890</individuals>
+    <eligible>92</eligible>
+    <ineligible>8</ineligible>
+  </district>
+
+  <district number="22">
+    <total-rate>15.4</total-rate>
+    <child-rate>28.7</child-rate>
+    <individuals>58930</individuals>
+    <eligible>82</eligible>
+    <ineligible>19</ineligible>
+  </district>
+
+  <district number="23">
+    <total-rate>15.8</total-rate>
+    <child-rate>26.6</child-rate>
+    <individuals>52740</individuals>
+    <eligible>72</eligible>
+    <ineligible>28</ineligible>
+  </district>
+
+  <district number="24">
+    <total-rate>13.3</total-rate>
+    <child-rate>22</child-rate>
+    <individuals>33000</individuals>
+    <eligible>69</eligible>
+    <ineligible>31</ineligible>
+  </district>
+
+  <district number="25">
+    <total-rate>13.1</total-rate>
+    <child-rate>22.9</child-rate>
+    <individuals>45150</individuals>
+    <eligible>69</eligible>
+    <ineligible>31</ineligible>
+  </district>
+
+  <district number="26">
+    <total-rate>10.6</total-rate>
+    <child-rate>22.3</child-rate>
+    <individuals>39650</individuals>
+    <eligible>65</eligible>
+    <ineligible>35</ineligible>
+  </district>
+
+  <district number="27">
+    <total-rate>14.4</total-rate>
+    <child-rate>22.3</child-rate>
+    <individuals>31410</individuals>
+    <eligible>62</eligible>
+    <ineligible>38</ineligible>
+  </district>
+
+  <district number="28">
+    <total-rate>18.5</total-rate>
+    <child-rate>25.8</child-rate>
+    <individuals>29120</individuals>
+    <eligible>67</eligible>
+    <ineligible>33</ineligible>
+  </district>
+
+  <district number="29">
+    <total-rate>14.1</total-rate>
+    <child-rate>28.5</child-rate>
+    <individuals>48790</individuals>
+    <eligible>83</eligible>
+    <ineligible>18</ineligible>
+  </district>
+
+  <district number="30">
+    <total-rate>14.5</total-rate>
+    <child-rate>22.3</child-rate>
+    <individuals>34570</individuals>
+    <eligible>60</eligible>
+    <ineligible>40</ineligible>
+  </district>
+
+  <district number="31">
+    <total-rate>15.5</total-rate>
+    <child-rate>27</child-rate>
+    <individuals>53940</individuals>
+    <eligible>76</eligible>
+    <ineligible>24</ineligible>
+  </district>
+
+  <district number="32">
+    <total-rate>11.5</total-rate>
+    <child-rate>25.2</child-rate>
+    <individuals>42180</individuals>
+    <eligible>81</eligible>
+    <ineligible>19</ineligible>
+  </district>
+
+  <district number="33">
+    <total-rate>15.2</total-rate>
+    <child-rate>18.6</child-rate>
+    <individuals>25340</individuals>
+    <eligible>36</eligible>
+    <ineligible>64</ineligible>
+  </district>
+
+  <district number="34">
+    <total-rate>17.9</total-rate>
+    <child-rate>32.6</child-rate>
+    <individuals>51170</individuals>
+    <eligible>85</eligible>
+    <ineligible>15</ineligible>
+  </district>
+
+  <district number="35">
+    <total-rate>11.5</total-rate>
+    <child-rate>24.8</child-rate>
+    <individuals>50870</individuals>
+    <eligible>82</eligible>
+    <ineligible>18</ineligible>
+  </district>
+
+  <district number="36">
+    <total-rate>15.5</total-rate>
+    <child-rate>29.4</child-rate>
+    <individuals>53020</individuals>
+    <eligible>82</eligible>
+    <ineligible>18</ineligible>
+  </district>
+
+  <district number="37">
+    <total-rate>19.4</total-rate>
+    <child-rate>25.4</child-rate>
+    <individuals>38970</individuals>
+    <eligible>76</eligible>
+    <ineligible>24</ineligible>
+  </district>
+
+  <district number="38">
+    <total-rate>8.8</total-rate>
+    <child-rate>20.2</child-rate>
+    <individuals>35420</individuals>
+    <eligible>70</eligible>
+    <ineligible>30</ineligible>
+  </district>
+
+  <district number="39">
+    <total-rate>11.2</total-rate>
+    <child-rate>20.7</child-rate>
+    <individuals>33230</individuals>
+    <eligible>56</eligible>
+    <ineligible>44</ineligible>
+  </district>
+
+  <district number="40">
+    <total-rate>13.4</total-rate>
+    <child-rate>30.7</child-rate>
+    <individuals>66650</individuals>
+    <eligible>83</eligible>
+    <ineligible>17</ineligible>
+  </district>
+
+  <district number="41">
+    <total-rate>14.9</total-rate>
+    <child-rate>27.9</child-rate>
+    <individuals>57130</individuals>
+    <eligible>81</eligible>
+    <ineligible>19</ineligible>
+  </district>
+
+  <district number="42">
+    <total-rate>13.1</total-rate>
+    <child-rate>23.3</child-rate>
+    <individuals>47940</individuals>
+    <eligible>62</eligible>
+    <ineligible>38</ineligible>
+  </district>
+
+  <district number="43">
+    <total-rate>19.2</total-rate>
+    <child-rate>28.7</child-rate>
+    <individuals>51540</individuals>
+    <eligible>76</eligible>
+    <ineligible>25</ineligible>
+  </district>
+
+  <district number="44">
+    <total-rate>15.8</total-rate>
+    <child-rate>29.7</child-rate>
+    <individuals>59390</individuals>
+    <eligible>81</eligible>
+    <ineligible>19</ineligible>
+  </district>
+
+  <district number="45">
+    <total-rate>11.8</total-rate>
+    <child-rate>18.6</child-rate>
+    <individuals>29430</individuals>
+    <eligible>40</eligible>
+    <ineligible>60</ineligible>
+  </district>
+
+  <district number="46">
+    <total-rate>12.4</total-rate>
+    <child-rate>26.5</child-rate>
+    <individuals>51840</individuals>
+    <eligible>79</eligible>
+    <ineligible>21</ineligible>
+  </district>
+
+  <district number="47">
+    <total-rate>16.2</total-rate>
+    <child-rate>25.7</child-rate>
+    <individuals>44320</individuals>
+    <eligible>73</eligible>
+    <ineligible>27</ineligible>
+  </district>
+
+  <district number="48">
+    <total-rate>13.6</total-rate>
+    <child-rate>20.8</child-rate>
+    <individuals>31540</individuals>
+    <eligible>57</eligible>
+    <ineligible>43</ineligible>
+  </district>
+
+  <district number="49">
+    <total-rate>13.9</total-rate>
+    <child-rate>21.1</child-rate>
+    <individuals>33440</individuals>
+    <eligible>65</eligible>
+    <ineligible>35</ineligible>
+  </district>
+
+  <district number="50">
+    <total-rate>13.9</total-rate>
+    <child-rate>23.2</child-rate>
+    <individuals>40250</individuals>
+    <eligible>72</eligible>
+    <ineligible>28</ineligible>
+  </district>
+
+  <district number="51">
+    <total-rate>15.7</total-rate>
+    <child-rate>30.6</child-rate>
+    <individuals>64390</individuals>
+    <eligible>84</eligible>
+    <ineligible>16</ineligible>
+  </district>
+
+  <district number="52">
+    <total-rate>14.6</total-rate>
+    <child-rate>19.7</child-rate>
+    <individuals>28060</individuals>
+    <eligible>44</eligible>
+    <ineligible>56</ineligible>
+  </district>
+
+  <district number="53">
+    <total-rate>15.2</total-rate>
+    <child-rate>22.6</child-rate>
+    <individuals>36260</individuals>
+    <eligible>62</eligible>
+    <ineligible>38</ineligible>
+  </district>
+
+</ca-districts>

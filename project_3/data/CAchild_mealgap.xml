@@ -1,0 +1,533 @@
+<ca-counties>
+  <county name="Alameda">
+    <total-rate>15.3</total-rate>
+    <population>341413</population>
+    <child-rate>20.7</child-rate>
+    <individuals>70680</individuals>
+    <eligible>60</eligible>
+    <ineligible>40</ineligible>
+  </county>
+
+  <county name="Alpine">
+    <total-rate>16.7</total-rate>
+    <population>254</population>
+    <child-rate>24.8</child-rate>
+    <individuals>60</individuals>
+    <eligible>43</eligible>
+    <ineligible>57</ineligible>
+  </county>
+
+  <county name="Amador">
+    <total-rate>15.4</total-rate>
+    <population>6066</population>
+    <child-rate>26.5</child-rate>
+    <individuals>1610</individuals>
+    <eligible>60</eligible>
+    <ineligible>40</ineligible>
+  </county>
+
+  <county name="Butte">
+    <total-rate>18.4</total-rate>
+    <population>45761</population>
+    <child-rate>27.3</child-rate>
+    <individuals>12470</individuals>
+    <eligible>74</eligible>
+    <ineligible>26</ineligible>
+  </county>
+
+  <county name="Calaveras">
+    <total-rate>15.2</total-rate>
+    <population>8610</population>
+    <child-rate>23.2</child-rate>
+    <individuals>1990</individuals>
+    <eligible>44</eligible>
+    <ineligible>56</ineligible>
+  </county>
+
+  <county name="Colusa">
+    <total-rate>14.8</total-rate>
+    <population>6236</population>
+    <child-rate>29</child-rate>
+    <individuals>1810</individuals>
+    <eligible>85</eligible>
+    <ineligible>15</ineligible>
+  </county>
+
+  <county name="Contra Costa">
+    <total-rate>12.9</total-rate>
+    <population>260120</population>
+    <child-rate>19.9</child-rate>
+    <individuals>51540</individuals>
+    <eligible>56</eligible>
+    <ineligible>44</ineligible>
+  </county>
+
+  <county name="Del Norte">
+    <total-rate>19.2</total-rate>
+    <population>6063</population>
+    <child-rate>30.6</child-rate>
+    <individuals>1860</individuals>
+    <eligible>80</eligible>
+    <ineligible>20</ineligible>
+  </county>
+
+  <county name="El Dorado">
+    <total-rate>13.6</total-rate>
+    <population>40128</population>
+    <child-rate>21.4</child-rate>
+    <individuals>8600</individuals>
+    <eligible>51</eligible>
+    <ineligible>49</ineligible>
+  </county>
+
+  <county name="Fresno">
+    <total-rate>16.6</total-rate>
+    <population>277524</population>
+    <child-rate>30.7</child-rate>
+    <individuals>85200</individuals>
+    <eligible>83</eligible>
+    <ineligible>17</ineligible>
+  </county>
+
+  <county name="Glenn">
+    <total-rate>15.5</total-rate>
+    <population>7754</population>
+    <child-rate>27</child-rate>
+    <individuals>2090</individuals>
+    <eligible>82</eligible>
+    <ineligible>18</ineligible>
+  </county>
+
+  <county name="Humboldt">
+    <total-rate>18.9</total-rate>
+    <population>26678</population>
+    <child-rate>27.3</child-rate>
+    <individuals>7280</individuals>
+    <eligible>71</eligible>
+    <ineligible>29</ineligible>
+  </county>
+
+  <county name="Imperial">
+    <total-rate>17.4</total-rate>
+    <population>50858</population>
+    <child-rate>35.4</child-rate>
+    <individuals>18000</individuals>
+    <eligible>84</eligible>
+    <ineligible>16</ineligible>
+  </county>
+
+  <county name="Inyo">
+    <total-rate>14.8</total-rate>
+    <population>3881</population>
+    <child-rate>23.7</child-rate>
+    <individuals>920</individuals>
+    <eligible>67</eligible>
+    <ineligible>33</ineligible>
+  </county>
+
+  <county name="Kern">
+    <total-rate>15.1</total-rate>
+    <population>254390</population>
+    <child-rate>28.5</child-rate>
+    <individuals>72490</individuals>
+    <eligible>82</eligible>
+    <ineligible>19</ineligible>
+  </county>
+
+  <county name="Kings">
+    <total-rate>16.2</total-rate>
+    <population>42150</population>
+    <child-rate>29.2</child-rate>
+    <individuals>12300</individuals>
+    <eligible>83</eligible>
+    <ineligible>17</ineligible>
+  </county>
+
+  <county name="Lake">
+    <total-rate>19.7</total-rate>
+    <population>13341</population>
+    <child-rate>32.4</child-rate>
+    <individuals>4320</individuals>
+    <eligible>83</eligible>
+    <ineligible>17</ineligible>
+  </county>
+
+  <county name="Lassen">
+    <total-rate>17.7</total-rate>
+    <population>5414</population>
+    <child-rate>28.1</child-rate>
+    <individuals>1520</individuals>
+    <eligible>61</eligible>
+    <ineligible>39</ineligible>
+  </county>
+
+  <county name="Los Angeles">
+    <total-rate>14.7</total-rate>
+    <population>2371472</population>
+    <child-rate>24.9</child-rate>
+    <individuals>590910</individuals>
+    <eligible>74</eligible>
+    <ineligible>26</ineligible>
+  </county>
+
+  <county name="Madera">
+    <total-rate>13.8</total-rate>
+    <population>42869</population>
+    <child-rate>28.3</child-rate>
+    <individuals>12130</individuals>
+    <eligible>89</eligible>
+    <ineligible>11</ineligible>
+  </county>
+
+  <county name="Marin">
+    <total-rate>11.9</total-rate>
+    <population>52556</population>
+    <child-rate>17.6</child-rate>
+    <individuals>9250</individuals>
+    <eligible>47</eligible>
+    <ineligible>53</ineligible>
+  </county>
+
+  <county name="Mariposa">
+    <total-rate>16.6</total-rate>
+    <population>3124</population>
+    <child-rate>27.9</child-rate>
+    <individuals>870</individuals>
+    <eligible>64</eligible>
+    <ineligible>36</ineligible>
+  </county>
+
+  <county name="Mendocino">
+    <total-rate>16.1</total-rate>
+    <population>19176</population>
+    <child-rate>27</child-rate>
+    <individuals>5180</individuals>
+    <eligible>80</eligible>
+    <ineligible>20</ineligible>
+  </county>
+
+  <county name="Merced">
+    <total-rate>16.7</total-rate>
+    <population>80203</population>
+    <child-rate>31.6</child-rate>
+    <individuals>25360</individuals>
+    <eligible>88</eligible>
+    <ineligible>13</ineligible>
+  </county>
+
+  <county name="Modoc">
+    <total-rate>18.7</total-rate>
+    <population>2069</population>
+    <child-rate>30.8</child-rate>
+    <individuals>640</individuals>
+    <eligible>78</eligible>
+    <ineligible>22</ineligible>
+  </county>
+
+  <county name="Mono">
+    <total-rate>13.6</total-rate>
+    <population>2988</population>
+    <child-rate>21.2</child-rate>
+    <individuals>630</individuals>
+    <eligible>84</eligible>
+    <ineligible>16</ineligible>
+  </county>
+
+  <county name="Monterey">
+    <total-rate>12.6</total-rate>
+    <population>111948</population>
+    <child-rate>25.2</child-rate>
+    <individuals>28230</individuals>
+    <eligible>77</eligible>
+    <ineligible>23</ineligible>
+  </county>
+
+  <county name="Napa">
+    <total-rate>11.2</total-rate>
+    <population>31324</population>
+    <child-rate>20.1</child-rate>
+    <individuals>6290</individuals>
+    <eligible>67</eligible>
+    <ineligible>33</ineligible>
+  </county>
+
+  <county name="Nevada">
+    <total-rate>14.8</total-rate>
+    <population>18462</population>
+    <child-rate>23.5</child-rate>
+    <individuals>4350</individuals>
+    <eligible>59</eligible>
+    <ineligible>41</ineligible>
+  </county>
+
+  <county name="Orange">
+    <total-rate>11.4</total-rate>
+    <population>732841</population>
+    <child-rate>20.6</child-rate>
+    <individuals>151310</individuals>
+    <eligible>64</eligible>
+    <ineligible>36</ineligible>
+  </county>
+
+  <county name="Placer">
+    <total-rate>13.4</total-rate>
+    <population>85385</population>
+    <child-rate>20.9</child-rate>
+    <individuals>17880</individuals>
+    <eligible>51</eligible>
+    <ineligible>49</ineligible>
+  </county>
+
+  <county name="Plumas">
+    <total-rate>18.6</total-rate>
+    <population>3558</population>
+    <child-rate>28.6</child-rate>
+    <individuals>1020</individuals>
+    <eligible>85</eligible>
+    <ineligible>15</ineligible>
+  </county>
+
+  <county name="Riverside">
+    <total-rate>12.7</total-rate>
+    <population>617524</population>
+    <child-rate>24.1</child-rate>
+    <individuals>148520</individuals>
+    <eligible>76</eligible>
+    <ineligible>25</ineligible>
+  </county>
+
+  <county name="Sacramento">
+    <total-rate>17.1</total-rate>
+    <population>361727</population>
+    <child-rate>25.3</child-rate>
+    <individuals>91650</individuals>
+    <eligible>72</eligible>
+    <ineligible>28</ineligible>
+  </county>
+
+  <county name="San Benito">
+    <total-rate>10.5</total-rate>
+    <population>15826</population>
+    <child-rate>23</child-rate>
+    <individuals>3630</individuals>
+    <eligible>69</eligible>
+    <ineligible>31</ineligible>
+  </county>
+
+  <county name="San Bernardino">
+    <total-rate>13.2</total-rate>
+    <population>588407</population>
+    <child-rate>24.7</child-rate>
+    <individuals>145320</individuals>
+    <eligible>77</eligible>
+    <ineligible>23</ineligible>
+  </county>
+
+  <county name="San Diego">
+    <total-rate>13.9</total-rate>
+    <population>724796</population>
+    <child-rate>22.3</child-rate>
+    <individuals>161680</individuals>
+    <eligible>67</eligible>
+    <ineligible>33</ineligible>
+  </county>
+
+  <county name="San Francisco">
+    <total-rate>16.7</total-rate>
+    <population>109537</population>
+    <child-rate>19.9</child-rate>
+    <individuals>21830</individuals>
+    <eligible>55</eligible>
+    <ineligible>45</ineligible>
+  </county>
+
+  <county name="San Joaquin">
+    <total-rate>16.3</total-rate>
+    <population>199991</population>
+    <child-rate>27.2</child-rate>
+    <individuals>54380</individuals>
+    <eligible>77</eligible>
+    <ineligible>23</ineligible>
+  </county>
+
+  <county name="San Luis Obispo">
+    <total-rate>14.4</total-rate>
+    <population>50889</population>
+    <child-rate>21.6</child-rate>
+    <individuals>10970</individuals>
+    <eligible>62</eligible>
+    <ineligible>38</ineligible>
+  </county>
+
+  <county name="San Mateo">
+    <total-rate>11.1</total-rate>
+    <population>160568</population>
+    <child-rate>17.6</child-rate>
+    <individuals>28310</individuals>
+    <eligible>50</eligible>
+    <ineligible>50</ineligible>
+  </county>
+
+  <county name="Santa Barbara">
+    <total-rate>12.1</total-rate>
+    <population>97839</population>
+    <child-rate>21.9</child-rate>
+    <individuals>21420</individuals>
+    <eligible>72</eligible>
+    <ineligible>28</ineligible>
+  </county>
+
+  <county name="Santa Clara">
+    <total-rate>12.1</total-rate>
+    <population>431785</population>
+    <child-rate>19.3</child-rate>
+    <individuals>83460</individuals>
+    <eligible>54</eligible>
+    <ineligible>46</ineligible>
+  </county>
+
+  <county name="Santa Cruz">
+    <total-rate>13.9</total-rate>
+    <population>55214</population>
+    <child-rate>22.8</child-rate>
+    <individuals>12610</individuals>
+    <eligible>65</eligible>
+    <ineligible>35</ineligible>
+  </county>
+
+  <county name="Shasta">
+    <total-rate>18.7</total-rate>
+    <population>39313</population>
+    <child-rate>28.7</child-rate>
+    <individuals>11280</individuals>
+    <eligible>78</eligible>
+    <ineligible>22</ineligible>
+  </county>
+
+  <county name="Sierra">
+    <total-rate>18.8</total-rate>
+    <population>515</population>
+    <child-rate>31</child-rate>
+    <individuals>160</individuals>
+    <eligible>62</eligible>
+    <ineligible>39</ineligible>
+  </county>
+
+  <county name="Siskiyou">
+    <total-rate>20.5</total-rate>
+    <population>9135</population>
+    <child-rate>31.6</child-rate>
+    <individuals>2890</individuals>
+    <eligible>75</eligible>
+    <ineligible>25</ineligible>
+  </county>
+
+  <county name="Solano">
+    <total-rate>15.2</total-rate>
+    <population>100236</population>
+    <child-rate>22.6</child-rate>
+    <individuals>22680</individuals>
+    <eligible>59</eligible>
+    <ineligible>41</ineligible>
+  </county>
+
+  <county name="Sonoma">
+    <total-rate>13.1</total-rate>
+    <population>105145</population>
+    <child-rate>21.3</child-rate>
+    <individuals>22420</individuals>
+    <eligible>63</eligible>
+    <ineligible>37</ineligible>
+  </county>
+
+  <county name="Stanislaus">
+    <total-rate>16.1</total-rate>
+    <population>146284</population>
+    <child-rate>28.7</child-rate>
+    <individuals>11280</individuals>
+    <eligible>78</eligible>
+    <ineligible>22</ineligible>
+  </county>
+
+  <county name="Sutter">
+    <total-rate>18.3</total-rate>
+    <population>25728</population>
+    <child-rate>29.7</child-rate>
+    <individuals>7650</individuals>
+    <eligible>84</eligible>
+    <ineligible>17</ineligible>
+  </county>
+
+  <county name="Tehama">
+    <total-rate>17.2</total-rate>
+    <population>15804</population>
+    <child-rate>29.4</child-rate>
+    <individuals>4640</individuals>
+    <eligible>85</eligible>
+    <ineligible>15</ineligible>
+  </county>
+
+  <county name="Trinity">
+    <total-rate>19.7</total-rate>
+    <population>2467</population>
+    <child-rate>32.4</child-rate>
+    <individuals>800</individuals>
+    <eligible>78</eligible>
+    <ineligible>22</ineligible>
+  </county>
+
+  <county name="Tulare">
+    <total-rate>15</total-rate>
+    <population>143945</population>
+    <child-rate>30.8</child-rate>
+    <individuals>44290</individuals>
+    <eligible>88</eligible>
+    <ineligible>12</ineligible>
+  </county>
+
+  <county name="Tuolumne">
+    <total-rate>16.7</total-rate>
+    <population>9423</population>
+    <child-rate>26.3</child-rate>
+    <individuals>2480</individuals>
+    <eligible>68</eligible>
+    <ineligible>32</ineligible>
+  </county>
+
+  <county name="Ventura">
+    <total-rate>10.4</total-rate>
+    <population>209433</population>
+    <child-rate>20.8</child-rate>
+    <individuals>43470</individuals>
+    <eligible>62</eligible>
+    <ineligible>38</ineligible>
+  </county>
+
+  <county name="Yolo">
+    <total-rate>16</total-rate>
+    <population>45308</population>
+    <child-rate>23.3</child-rate>
+    <individuals>10560</individuals>
+    <eligible>71</eligible>
+    <ineligible>29</ineligible>
+  </county>
+
+  <county name="Yuba">
+    <total-rate>19.3</total-rate>
+    <population>20862</population>
+    <child-rate>30.9</child-rate>
+    <individuals>6460</individuals>
+    <eligible>81</eligible>
+    <ineligible>20</ineligible>
+  </county>
+
+  <county name="State Total">
+    <total-rate>15</total-rate>
+    <population>9174184</population>
+    <child-rate>25.1</child-rate>
+    <individuals>2316570</individuals>
+    <eligible>71</eligible>
+    <ineligible>29</ineligible>
+  </county>
+
+</ca-counties>
